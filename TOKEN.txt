@@ -1,1 +1,4 @@
-OTM4MzQwMzE5NjMwNjAyMjcx.Yfo3hQ.KGwK1vtBCvivDzRdd60j8ykHWgw
+Enter your own token in this file.
+
+Make sure, that it's the only text in this file.
+Delete everything else, including the instructions.
