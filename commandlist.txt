@@ -1,0 +1,9 @@
+This is a list of all the commands.
+
+You'll have to use the "cic" prefix in front of every command.
+---------------------------------------------------------------------
+- helloworld
+- help
+- commandlist
+- video
+---------------------------------------------------------------------
